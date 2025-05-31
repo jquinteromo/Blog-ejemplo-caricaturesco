@@ -13,7 +13,7 @@ Este proyecto representa mis **primeros pasos en desarrollo web**, enfocado en p
 
 Vista previa
 
-![Vista previa](img/img_preview/preview.png) 
+![Vista previa](/img/img_preview/preview.png) 
 
 ---
 
